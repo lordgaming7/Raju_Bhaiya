@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "Dragon_SMP12.aternos.me",
+    "port": 16723,
+    "version": "1.21.5"
   },
   "position": {
     "enabled": true,
